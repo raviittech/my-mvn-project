@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to Ashokit</h2>
+<h2>Welcome to Ashokit institute</h2>
 </body>
 </html>
